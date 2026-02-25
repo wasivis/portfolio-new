@@ -3,6 +3,8 @@ const PROJECT_DATA = [
   { title: "StillUp?", desc: "Uptime Monitoring Service", link: "https://stillup-one.vercel.app/" },
   { title: "DrinkMe", desc: "Minimalist Shrinking App", link: "https://github.com/wasivis/DrinkMe" },
   { title: "THE//WAREHOUSE", desc: "Storefront Website", link: "https://the-warehouse-zeta.vercel.app/" },
+  { title: "Jobsly", desc: "Remote Jobs Website", link: "https://jobslyremote.vercel.app/" },
+  { title: "TechGrill", desc: "AI-Powered Technical Interview Practice", link: "https://techgrill.vercel.app/" },
 ];
 
 export default function Projects() {

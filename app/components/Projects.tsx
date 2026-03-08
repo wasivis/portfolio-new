@@ -1,6 +1,6 @@
 const PROJECT_DATA = [
   { title: "Gamescout AI", desc: "AI-Powered Game Discovery Platform", link: "https://gamescout-ai.vercel.app/" },
-  { title: "StillUp?", desc: "Uptime Monitoring Service", link: "https://stillup-one.vercel.app/" },
+  { title: "WasiLinks", desc: "Link-in-bio Website", link: "https://wasilinks.vercel.app/" },
   { title: "DrinkMe", desc: "Minimalist Shrinking App", link: "https://github.com/wasivis/DrinkMe" },
   { title: "THE//WAREHOUSE", desc: "Storefront Website", link: "https://the-warehouse-zeta.vercel.app/" },
   { title: "Jobsly", desc: "Remote Jobs Website", link: "https://jobslyremote.vercel.app/" },

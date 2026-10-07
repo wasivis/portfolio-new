@@ -2,7 +2,7 @@ const PROJECT_DATA = [
   { title: "Gamescout AI", desc: "AI-Powered Game Discovery Platform", link: "https://gamescout-ai.vercel.app/" },
   { title: "WasiLinks", desc: "Link-in-bio Website", link: "https://wasilinks.vercel.app/" },
   { title: "DrinkMe", desc: "Minimalist Shrinking App", link: "https://github.com/wasivis/DrinkMe" },
-  { title: "THE//WAREHOUSE", desc: "Storefront Website", link: "https://the-warehouse-zeta.vercel.app/" },
+  { title: "Job Application Tracker", desc: "Job Search Management App", link: "https://job-tracker-ebon-three.vercel.app/" },
   { title: "SaveSlot", desc: "Game Backlog + Reviews Website", link: "https://save-slot.vercel.app/" },
   { title: "TechGrill", desc: "AI-Powered Technical Interview Practice", link: "https://techgrill.vercel.app/" },
 ];

@@ -1,49 +1,55 @@
 const PROJECT_DATA = [
   {
     title: "Gamescout AI",
-    desc: "AI-powered game discovery platform for players who want better recommendations without endless browsing.",
-    impact: "Built a cleaner discovery flow around discovery, filtering, and personalization.",
+    desc: "AI-powered game discovery platform that helps players find games through personalized recommendations instead of endless browsing.",
+    impact:
+      "Built an AI-driven discovery experience with filtering and recommendation flows focused on helping users quickly find relevant games.",
     stack: ["Next.js", "TypeScript", "AI"],
     link: "https://gamescout-ai.vercel.app/",
     github: "https://github.com/wasivis/gamescout-ai",
   },
   {
     title: "WasiLinks",
-    desc: "Minimal link-in-bio experience designed for creators and personal brands.",
-    impact: "Focused on clarity, speed, and a premium single-page presentation.",
-    stack: ["React", "Next.js", "UI"],
+    desc: "Minimal link-in-bio platform for creators and personal brands to showcase their most important links in one place.",
+    impact:
+      "Built a fast, responsive single-page experience with a strong focus on visual hierarchy, simplicity, and mobile usability.",
+    stack: ["React", "Next.js", "Tailwind CSS"],
     link: "https://wasilinks.vercel.app/",
     github: "https://github.com/wasivis/wasilinks",
   },
   {
     title: "DrinkMe",
-    desc: "Video shrinking app built to reduce file size without sacrificing too much quality.",
-    impact: "Focused on a simple, fast workflow for compressing videos into lighter files for easier sharing.",
-    stack: ["Product Design", "UX", "App"],
+    desc: "Desktop video compression app that reduces file size while keeping a practical balance between quality and compression.",
+    impact:
+      "Built a streamlined compression workflow designed to make large video files easier to share and store.",
+    stack: ["Electron", "Desktop App", "Video Processing"],
     link: "https://github.com/wasivis/DrinkMe/releases/tag/v1.0.1",
     github: "https://github.com/wasivis/DrinkMe",
   },
   {
     title: "Job Application Tracker",
-    desc: "Career workflow app for organizing applications, follow-ups, and interview progress.",
-    impact: "Designed around operational clarity to make job searching less chaotic and more structured.",
-    stack: ["Next.js", "Postgres", "Productivity"],
+    desc: "Full-stack job search management app for organizing applications, tracking progress, and managing recruiter information.",
+    impact:
+      "Built authentication, application CRUD, status tracking, filtering, sorting, and a personalized dashboard backed by MongoDB.",
+    stack: ["React", "Node.js", "Express", "MongoDB"],
     link: "https://job-tracker-ebon-three.vercel.app/",
     github: "https://github.com/wasivis/job-tracker",
   },
   {
     title: "SaveSlot",
-    desc: "Game backlog and review platform for players tracking what they want to play next.",
-    impact: "Blended catalog browsing with personal tracking to create a more intentional gaming routine.",
-    stack: ["Full-stack", "Database", "UX"],
+    desc: "Game backlog and review platform for discovering, organizing, and keeping track of games worth playing.",
+    impact:
+      "Built a full-stack experience combining game discovery, personal collections, reviews, and persistent user data.",
+    stack: ["Next.js", "Database", "Full-stack"],
     link: "https://save-slot.vercel.app/",
     github: "https://github.com/wasivis/gamelog",
   },
   {
     title: "TechGrill",
-    desc: "AI-powered technical interview dojo for practicing problem-solving and communication.",
-    impact: "Turned interview prep into an interactive, structured learning experience.",
-    stack: ["AI", "Next.js", "Learning"],
+    desc: "AI-powered technical interview practice platform designed to help developers improve problem-solving and communication skills.",
+    impact:
+      "Built an interactive practice experience that combines AI feedback with structured technical interview exercises.",
+    stack: ["Next.js", "TypeScript", "AI"],
     link: "https://techgrill.vercel.app/",
     github: "https://github.com/wasivis/techgrill",
   },
